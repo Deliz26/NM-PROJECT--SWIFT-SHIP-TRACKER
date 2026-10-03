@@ -13,8 +13,7 @@ Swift Ship Tracker helps businesses and customers monitor parcel status efficien
 - Easy tracking and customer support workflow
 
 ## Project Materials
-- Demo Video: [Add Drive Link Here]
-- Project Documentation: [Add Drive Link Here]
+**Drive Link**- https://drive.google.com/drive/folders/13eMw-V-w2xLOM_2Ovd3Z3fr2htIBZj75?usp=sharing
 
 ## Tech Stack
 - Salesforce
@@ -29,8 +28,4 @@ Swift Ship Tracker helps businesses and customers monitor parcel status efficien
 3. The AI chatbot provides status updates and support.
 4. Users receive automated notifications and tracking assistance.
 
-## Repository
-GitHub: https://github.com/Deliz26/NM-PROJECT--SWIFT-SHIP-TRACKER
 
-## Contact
-For questions or support, contact the project owner via GitHub.
